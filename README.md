@@ -1,6 +1,6 @@
 # Jetpack Compose Calculator
 
-![App Screenshot](screenshots/screenshot.png)
+![App Screenshot](screenshots/screenshot.jpeg)
 
 A simple calculator app built using Android's Jetpack Compose library.
 
@@ -19,4 +19,4 @@ A simple calculator app built using Android's Jetpack Compose library.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/jetpack-compose-calculator.git
+git clone https://github.com/kamalpreet807/CalculatorCompose.git
